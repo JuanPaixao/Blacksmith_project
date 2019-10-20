@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Water
+  - Metal
+  - Gold
+  - Gem
+  - Bronze
+  - Fire
+  - Form
   layers:
   - Default
   - TransparentFX
